@@ -1,8 +1,8 @@
-# GDC_Tutorial2D_01
+# GDC_2D_01
 
 Unity Version: 2021.2.2f1
 
-Concepts Explained:
+Concepts:
 
 - 2D Physics
 - Unity Input System
